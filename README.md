@@ -78,5 +78,6 @@ Les opérations de cascade
 
 <img width="1600" height="862" alt="Capture d’écran 2026-02-23 210131" src="https://github.com/user-attachments/assets/4861cbf9-e3fd-4bb0-b684-536def805d8b" />
 
+<img width="682" height="677" alt="Capture d’écran 2026-02-25 145702" src="https://github.com/user-attachments/assets/5ae03afc-c82a-4827-b7ee-69315bec0804" />
 
 
